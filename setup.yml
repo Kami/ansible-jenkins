@@ -9,4 +9,4 @@
     - vars/jenkins.yml
 
   tasks:
-    - include: tasks/setup.yml
+    - include: tasks/main.yml
